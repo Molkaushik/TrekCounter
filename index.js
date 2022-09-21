@@ -17,5 +17,6 @@ function save(){
 }
 
 function clearHist(){
+    totalTreks = 0;
     trekCount.textContent = "Total Treks: 0";
 }
